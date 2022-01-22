@@ -5,3 +5,4 @@ public class BasePage {
         System.out.println("I am in Base Page");
     }
 }
+
