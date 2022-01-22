@@ -5,7 +5,7 @@ public class Tv {
         System.out.println("Initialized");
     }
 
-    private void start () {
+     void start () {
         init(); // line 2
         System.out.println("Started");
     }
