@@ -4,10 +4,10 @@ public class CredentialForPerson {
     private String userName = "BugBusters";
     private String password = "CyberTek123" ;
 
-    private String getUserName(){
+    public String getUserName(){
         return userName;
     }
-    private String getPassword(){
+    public String getPassword(){
         return password;
     }
 
