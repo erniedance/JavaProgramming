@@ -8,4 +8,9 @@ public class A {
     protected static int num3 = 300;
     static int num4 = 400;
 
+    public static int getNum2() {
+        return num2;
+
+    }
+
 }
