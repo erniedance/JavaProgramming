@@ -1,9 +1,0 @@
-package Day_06_01_22_2022.question5;
-
-public class SportObject {
-    public static void main(String [] args) {
-        Sport volleyball = new Sport();
-        volleyball.makeSport ("Volleyball", 12, false);
-        System.out.println(volleyball);
-    }
-}
