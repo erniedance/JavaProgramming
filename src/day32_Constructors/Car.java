@@ -7,7 +7,6 @@ public class Car {
     public double price;
     public String color;
 
-
     public Car(String brand){
         this.brand = brand;
     }
@@ -42,6 +41,8 @@ public class Car {
                 ", color='" + color + '\'' +
                 '}';
     }
+
+
 
 
 }

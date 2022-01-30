@@ -9,11 +9,5 @@ public class Test {
         String str = "Wooden Spoon";
 
         StringUtility.printEachChar(str);
-
-
-
     }
-
-
-
 }

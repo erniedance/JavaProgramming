@@ -22,7 +22,7 @@ public class GarbageCollection {
 
         System.out.println( str );
 
-        Car car1 = new Car("Toyota");
+        Car car1 = new Car("toyota");
 
         car1 = null;
 
