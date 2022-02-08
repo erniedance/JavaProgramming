@@ -10,7 +10,7 @@ public class Currencies {
         double euro = dollar * 0.86 ;
         double JPY = dollar * 115;
         double pound = dollar * 0.73;
-        double CAD = dollar * 1.24;
+        double CAD =  dollar * 1.24;
 
         System.out.println("dollar = " + dollar);
         System.out.println("lira = " + lira);

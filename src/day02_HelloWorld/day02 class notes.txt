@@ -24,7 +24,7 @@ How to rename?
 
 src folder: used for storing packages
 
-package: used for storing java files in anorganized manner
+package: used for storing java files in an organized manner
 
 		right click src folder -> new  -> package
 

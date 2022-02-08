@@ -17,7 +17,7 @@ public class Println_VS_Print2 {
         System.out.println();
         System.out.println("-----------------------------------");
 
-        System.out.println("Hello evryone, how are you all today? Today we will learn Escape Sequences, and next week we will learn Variables");
+        System.out.println("Hello everyone, how are you all today? Today we will learn Escape Sequences, and next week we will learn Variables");
 
         System.out.println("----------------------------------");
 
