@@ -1,6 +1,5 @@
-package Strings;
+package day01;
 
-import java.util.Locale;
 
 public class StringStuff {
 
